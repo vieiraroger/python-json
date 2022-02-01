@@ -1,0 +1,26 @@
+{
+    "pessoas": [
+        "Teste",
+        "Vitor",
+        "Roger",
+        "Romulo"
+    ],
+    "listaDeObjetos": [
+        {
+            "idade": 99,
+            "nome": "Teste 99"
+        },
+        {
+            "idade": 11,
+            "nome": "Teste 1"
+        },
+        {
+            "idade": 20,
+            "nome": "Teste 2"
+        }
+    ],
+    "Roger": {
+        "idade": 23
+    },
+    "teste": "Roger 987"
+}
